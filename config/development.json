@@ -12,8 +12,8 @@
           "filename": "./backend.log"
       },
       "mailgun": {
-        "domain": "",
-        "apiKey": ""
+        "domain": "sandbox7113173bc51a4d75aafd10bad665a887.mailgun.org",
+        "apiKey": "71b35d7e-1daa0343"
       },
       "port": 8080
     }
